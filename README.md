@@ -21,7 +21,7 @@
 
 <h3>To get a local copy of this project up and running, follow these steps:</h3>
 <ol>
-  <li>Clone this repository using <code git clone https://github.com/your-username/fancy-clock.git /> in your terminal or Git Bash.</li>
+  <li>Clone this repository using <code> git clone https://github.com/your-username/fancy-clock.git </code> in your terminal or Git Bash.</li>
   <li>Open the project folder in your text editor.</li>
   <li>Open the index.html file in your web browser to view the clock.</li>
 </ol>
