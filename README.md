@@ -1,29 +1,35 @@
-#Fancy Clock
+<h1>Fancy Clock</h1>
 
-This is a simple analog clock built with HTML, CSS, and JavaScript.
+<p>This is a simple analog clock built with HTML, CSS, and JavaScript.</p>
 
-#Features
+<h1>Features</h1>
+<ul>
+  <li>Displays the current time with a smooth analog animation.</li>
+  <li>Hover over the clock title to change the color.</li>
+  <li>Has a beautiful, customizable design.</li>
+</ul>
 
-Displays the current time with a smooth analog animation.
-Hover over the clock title to change the color.
-Has a beautiful, customizable design.
-Technologies
+<h1>Technologies</h1>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>jQuery</li>
+</ul>
+  
+<h1>Getting Started</h1>
 
-HTML
-CSS
-JavaScript
-jQuery
-Getting Started
+<h3>To get a local copy of this project up and running, follow these steps:</h3>
+<ol>
+  <li>Clone this repository using <code git clone https://github.com/your-username/fancy-clock.git /> in your terminal or Git Bash.</li>
+  <li>Open the project folder in your text editor.</li>
+  <li>Open the index.html file in your web browser to view the clock.</li>
+</ol>
 
-#To get a local copy of this project up and running, follow these steps:
+<h1>Deployment</h1>
+  
+<h2>This website is hosted using Cloudflare Pages. You can access it at https://fancy-clock.pages.dev/.</h2>
 
-Clone this repository using git clone https://github.com/your-username/fancy-clock.git in your terminal or Git Bash.
-Open the project folder in your text editor.
-Open the index.html file in your web browser to view the clock.
-Deployment
+<h1>Credits</h1>
 
-This website is hosted using Cloudflare Pages. You can access it at https://fancy-clock.pages.dev/.
-
-#Credits
-
-This project was inspired by Wes Bos's JavaScript 30 course.
+<p>This project was inspired by Wes Bos's JavaScript 30 course.</p>
