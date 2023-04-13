@@ -29,7 +29,7 @@
 <h1>Deployment</h1>
   
 <h2>This website is hosted using Cloudflare Pages. </h2>
-<h2>You can access it at https://fancy-clock.pages.dev/.</h2>
+<p>You can access it at https://fancy-clock.pages.dev/.</p>
 
 <h1>Credits</h1>
 
